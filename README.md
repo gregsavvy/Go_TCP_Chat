@@ -1,4 +1,4 @@
-This is a simple TCPv6 chat backend that is independent from any frontend, designed to be used with just telnet.
+This is a simple plain TCP chat backend that is independent from any frontend, can be used with just telnet.
 
 Installation (Linux):
 1. $sudo apt install golang
